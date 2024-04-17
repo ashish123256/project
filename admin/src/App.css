@@ -1,0 +1,9 @@
+main{
+  display: flex;
+  flex-direction: row;
+  background-color: #ebebeb;
+}
+.mainBody{
+  width: 100%;
+}
+
